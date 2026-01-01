@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+accounts:
+  message: "Welcome to TPI Composites Loans Local API Docs."
+  contactDetails:
+    name: "Marikannan Rajendran - Developer"
+    email: "m.rajendran@tpicomposites.com"
+  onCallSupport:
+    - (+91)99431-55523
+    - (+91)99431-55512

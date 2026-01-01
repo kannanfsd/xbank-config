@@ -1,0 +1,11 @@
+build:
+  version:
+    "3.0"
+cards:
+  message: "Welcome to Cards - developer REST API."
+  contactDetails:
+    name: "Marikannan Rajendran - Developer"
+    email: "m.rajendran@tpicomposites.com"
+  onCallSupport:
+    - (+91)99431-55512
+    - (+91)99431-55523

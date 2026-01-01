@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to TPI Composites Accounts PROD API Docs."
+  contactDetails:
+    name: "Sathiyanarayanan Sinnasamy"
+    email: "sathiyas@tpicomposites.com"
+  onCallSupport:
+    - (+91)99400-11122
+    - (+91)99400-11133

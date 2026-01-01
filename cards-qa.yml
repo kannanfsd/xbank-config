@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to TPI Composites Cards QA API Docs."
+  contactDetails:
+    name: "Srilekha - QA Lead"
+    email: "srilekha@tpicomposites.com"
+  onCallSupport:
+    - (+91)99431-12345
+    - (+91)99431-67890

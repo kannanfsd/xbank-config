@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to TPI Composites Cards PROD API Docs."
+  contactDetails:
+    name: "Sathianarayanan Sinnasamy - PROD Delivery Manager"
+    email: "s.sinnasamy@tpicomposites.com"
+  onCallSupport:
+    - (+91)99421-11122
+    - (+91)99421-11133
