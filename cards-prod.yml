@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to TPI Composites Cards PROD API Docs."
+  message: "Welcome to TPI Composites Cards Webhook API Docs."
   contactDetails:
     name: "Sathianarayanan Sinnasamy - PROD Delivery Manager"
     email: "{cipher}2018c9b789f7d7fd57022433cb0535c2e7791d2735722e0c4737759dff513e1f172f0d4018695f19493fc985a2d7d403"
