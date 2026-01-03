@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to TPI Composites Accounts Quality Assured API Docs."
+  message: "Welcome to TPI Composites Accounts QA API Docs."
   contactDetails:
     name: "Srilekha - QA Lead"
     email: "{cipher}bc31a1f9e13583e4f9f6076bdc25d8d8c838113fc96afcf9f575df4cfc86e1ab0f08a10329f1672c2923cd6ad94dff4d"
